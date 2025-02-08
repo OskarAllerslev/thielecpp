@@ -1,0 +1,1 @@
+g++ -I C:\Users\Oskar\thielecpp\include main.cpp -o main -mconsole
